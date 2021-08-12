@@ -1,31 +1,31 @@
 {
-  "name": "styless-calendar",
-  "version": "1.0.1",
-  "description": "I am testing for now",
-  "main": "src/index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FlahDev/styless-calendar.git"
-  },
-  "keywords": [
-    "node",
-    "calendar",
-    "date-fns",
-    "styless"
-  ],
-  "author": "Flávio <flah.dev@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/FlahDev/styless-calendar/issues"
-  },
-  "homepage": "https://github.com/FlahDev/styless-calendar#readme",
-  "dependencies": {
-    "typescript": "^4.3.5"
-  },
-  "devDependencies": {
-    "@types/node": "^16.6.0"
-  }
+	"name": "styless-calendar",
+	"version": "1.0.3",
+	"description": "I am testing for now",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FlahDev/styless-calendar.git"
+	},
+	"keywords": [
+		"node",
+		"calendar",
+		"date-fns",
+		"styless"
+	],
+	"author": "Flávio <flah.dev@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/FlahDev/styless-calendar/issues"
+	},
+	"homepage": "https://github.com/FlahDev/styless-calendar#readme",
+	"dependencies": {
+		"typescript": "^4.3.5"
+	},
+	"devDependencies": {
+		"@types/node": "^16.6.0"
+	}
 }
